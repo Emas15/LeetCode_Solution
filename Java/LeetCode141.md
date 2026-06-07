@@ -4,7 +4,7 @@ https://leetcode.com/problems/linked-list-cycle/
 ## SS of submission
 <img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/beccb790-e6a1-4e2c-a84d-12591c50e49d" />
 
-![LeetCode Submission]()
+
 
 ```Java
 
