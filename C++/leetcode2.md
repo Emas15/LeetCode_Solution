@@ -41,6 +41,9 @@ public:
 ```
 ## Helpful Resources
 <p>
-    Youtube video link : https://youtu.be/KMS0WFxrsT8
+
+    YouTube video that helped : https://youtu.be/KMS0WFxrsT8
 </p>
+
+
 
