@@ -1,2 +1,2 @@
-# LeetCode_Solve_in_C-
-This repository contains all the leetcode problem's solution in C++. With the solution code many helpful materials related to solution is given.  
+# LeetCode_Solution
+This repository contains all the leetcode problem's solution in C++ and Java. With the solution code many helpful materials related to solution is given.  
