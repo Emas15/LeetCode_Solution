@@ -2,7 +2,7 @@
 https://leetcode.com/problems/add-two-numbers/
 
 ## SS of submission
-![LeetCode Submission](./images/leetcode2.png)
+![LeetCode Submission](./imagaes/leetcode2.png)
 
 ```C++
 #include<iostream>
