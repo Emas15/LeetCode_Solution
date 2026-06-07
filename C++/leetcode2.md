@@ -39,6 +39,8 @@ public:
     }
 };
 ```
+## Helpful Resources
 
-# Helpful Resources
-[![YouTube Video Tutorial](https://img.youtube.com/vi/KMS0WFxrsT8/0.jpg)](https://youtu.be/KMS0WFxrsT8)
+<a href="https://youtu.be/KMS0WFxrsT8">
+  <img src="https://img.youtube.com/vi/KMS0WFxrsT8/0.jpg" alt="YouTube Video Tutorial" width="400">
+</a>
