@@ -2,7 +2,7 @@
 https://leetcode.com/problems/add-two-numbers/
 
 ## SS of submission
-![LeetCode Submission](./images/leetcode2.png)
+![LeetCode Submission](./imagaes/leetcode2.png)
 
 ```C++
 #include<iostream>
@@ -39,6 +39,10 @@ public:
     }
 };
 ```
+## Helpful Resources
+<p>
+    Youtube video link : https://youtu.be/KMS0WFxrsT8
+</p>
 
 ## Helpful Resources
 <a href="https://youtu.be/KMS0WFxrsT8">
