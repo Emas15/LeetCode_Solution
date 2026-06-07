@@ -41,6 +41,6 @@ public:
 ```
 
 ## Helpful Resources
-<a href="https://youtu.be/KMS0WFxrsT8">
-  <img src="https://img.youtube.com/vi/KMS0WFxrsT8/0.jpg" alt="YouTube Video Tutorial" width="400">
-</a>
+<p>
+    YouTube video that helped : https://youtu.be/KMS0WFxrsT8
+</p>
